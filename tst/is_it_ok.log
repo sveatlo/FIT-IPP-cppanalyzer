@@ -1,0 +1,6 @@
+IPP project solution (assignment CLS). Created by xhanze10.
+Arguments:
+	--input=file		Input text file
+	--output=file		File used for output. If not supplied, stdout will be used
+	--pretty-xml=k		Pretty prints XML indented by k spaces
+	--details=class		Echoes information about class members
